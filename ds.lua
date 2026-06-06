@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/diseasehub/diseasehub/refs/heads/main/hub.lua"))()
